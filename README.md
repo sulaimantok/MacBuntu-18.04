@@ -1,16 +1,16 @@
 # MacBuntu-18.04
 This Tutorial help you to  create your ubuntu environment like mac
 ## 1. MacBuntu Walpapers
-###You can download a few Walpapers to mak your dekstop like mac [here](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
+#### You can download a few Walpapers to mak your dekstop like mac [here](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 ## 2. MacBuntu OS Y Theme, Icons and cursors
-### Open tour terminal and type the code to install themes, icons and cursors.
+#### Open tour terminal and type the code to install themes, icons and cursors.
       ```
       $ sudo add-apt-repository ppa:noobslab/macbuntu
       $ sudo apt-get update
       $ sudo apt-get install macbuntu-os-icons-v1804
       $ sudo apt-get install macbuntu-os-ithemes-v1804
       ```
-####  or You can download and run file *.sh in this repository(name = theme.sh)
+####  Or You can download and run file *.sh in this repository(name = theme.sh)
 
       to run
       ```
@@ -26,7 +26,8 @@ This Tutorial help you to  create your ubuntu environment like mac
       ```
       or You can download and run file *.sh in this repository(name = slingscold.sh)
 ## 4. Albert Spotlight (Alternative to Mac Spotlight)
-     Albert alternative to OS-X spotlight created by Manuel, it offers pretty much same features like Spotlight or maybe better than Spotlight. It is a selection-based search system, which creates an index of all items and files on the system. It is designed to allow the user to quickly locate a wide variety of items on the computer, including documents, pictures, music, applications, and System Preferences. You can set custom hotkey and modify search criteria for albert.
+####  Albert alternative to OS-X spotlight created by Manuel, it offers pretty much same features like Spotlight or maybe better than Spotlight. It is a selection-based search system, which creates an index of all items and files on the system. It is designed to allow the user to quickly locate a wide variety of items on the computer, including documents, pictures, music, applications, and System Preferences. You can set custom hotkey and modify search criteria for albert.
+
      ```
      $ sudo add-apt-repository ppa:noobslab/macbuntu
      $ sudo apt-get update
