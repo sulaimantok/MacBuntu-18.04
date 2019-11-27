@@ -1,16 +1,16 @@
 # MacBuntu-18.04
 This Tutorial help you to  create your ubuntu environment like mac
 ## 1. MacBuntu Walpapers
-      You can download a few Walpapers to mak your dekstop like mac [here](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
+###You can download a few Walpapers to mak your dekstop like mac [here](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 ## 2. MacBuntu OS Y Theme, Icons and cursors
-      Open tour terminal and type the code to install themes, icons and cursors.
+### Open tour terminal and type the code to install themes, icons and cursors.
       ```
       $ sudo add-apt-repository ppa:noobslab/macbuntu
       $ sudo apt-get update
       $ sudo apt-get install macbuntu-os-icons-v1804
       $ sudo apt-get install macbuntu-os-ithemes-v1804
       ```
-      or You can download and run file *.sh in this repository(name = theme.sh)
+####  or You can download and run file *.sh in this repository(name = theme.sh)
 
       to run
       ```
@@ -18,6 +18,7 @@ This Tutorial help you to  create your ubuntu environment like mac
       ```
 ## 3. Slingscold (Alternative to Launchpad)
       Open tour terminal and type the code
+
       ```
       $ sudo add-apt-repository ppa:noobslab/macbuntu
       $ sudo apt-get update
@@ -41,6 +42,7 @@ This Tutorial help you to  create your ubuntu environment like mac
      ```
 
 ## 6. Tweak install to change theme and icons
+
     ```
     $ sudo apt-get install gnome-tweak-tool
     ```
