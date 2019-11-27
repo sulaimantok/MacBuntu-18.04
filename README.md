@@ -1,5 +1,5 @@
 # MacBuntu-18.04
-This Tutorial help you to  create your ubuntu environment like mac
+This Tutorial help you to  create your ubuntu environment like mac   :apple: :apple:
 ## 1. MacBuntu Walpapers
 #### You can download a few Walpapers to mak your dekstop like mac [here](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 ## 2. MacBuntu OS Y Theme, Icons and cursors
