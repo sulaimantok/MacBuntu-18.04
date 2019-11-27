@@ -48,4 +48,4 @@ You can use other platform like this [Cerbero](https://www.noobslab.com/2017/04/
     $ sudo apt-get install gnome-tweak-tool
     ```
 
-## I share this tutorial from [noobslab](https://www.noobslab.com)
+#### I share this tutorial from [noobslab](https://www.noobslab.com)
